@@ -34,3 +34,8 @@ Ou sa transcription textuelle en article :
 C'est la 1ere fois que je fais un projet pour l'exterieur et que je veux open source, AIDEZ MOI
 - vous pouvez ouvrir des issues (bug, mapping manquant, idées).
 - vous pouvez faire des PRs si vous voulez contribuer au code ou a la doc
+
+
+## Lien peut être utiles : 
+- une liste presque exhaustive de toutes les écritures a traduire : https://yaytext.com/fr/
+- de quoi récupérer les verison unicode des char farfelu : https://www.dcode.fr/codage-unicode
