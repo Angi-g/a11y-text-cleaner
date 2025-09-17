@@ -1,7 +1,7 @@
 # a11y-text-cleaner
 extension chrome / mozilla qui vise à rendre accessible les posts de réseaux social qui sont rédigés avec des caractères fantaisiste (unicode décoratif, alphabet mathématique, etc...),
 L'utilisateurice pourra choisir
-- masquer les posts (remplassé par un message d'avertisssement, avec option de pouvoir l'afficher quand même si iels souhaitent) 
+- masquer les posts (remplacé par un message d'avertisssement, avec option de pouvoir l'afficher quand même si iels souhaitent) 
 - traduire avec du vrai texte, lisible et accessible, et le formatage qui était souhaité (gras, italique...)
 
 plus d'info sur ce que sont ces char fantaisiste : 
@@ -17,7 +17,7 @@ Ou sa transcription textuelle en article :
 
 ## Roadmap écrite a l'arache et a améliorer
 - [ ] reconnaissance des char farfelu
-- [ ] mode masquage : on remplace les posts qui ont des caractère fantaisiste par le texte "ce post de ( nom ou psoeudo de l'utilisateurice ) contiens des caractère illisible par les outiles d'accessibilité"
+- [ ] mode masquage : on remplace les posts qui ont des caractère fantaisiste par le texte "ce post de ( nom ou psoeudo de l'utilisateurice ) contiens des caractère illisible par les outils d'accessibilité"
 - [ ] ajouter l'option "afficher ce post malgrès tout" sur les posts masqué
 - [ ] ajouter une option pour qu'une pop up s'affiche pour valider le fait qu'on veut interragir avec un post qui contien des char fantaisiste (objectif : inciter a limiter la visibilité de ces posts)
 - [ ] traduire les textes en texte lisible et accessible
